@@ -1,10 +1,10 @@
   ### Hi there! 👋
 
+  - I currently live in Hungary, Budapest, but in a year we plan to move to Hungary, Pernau (Pornóapáti)
   - I'm currently a student in [Bláthy Otto Titus IT Secondary School](https://blathy.info)
   - You can reach me on Discord: [@aki26](https://discord.com/users/452133888047972352)
   - I have a Discord Bot: [RangerBot](https://rangerbot.hu); I write it in C# Discord.Net
     - *shh!* 🤫 I'm currently working on v5, which will be a full rewrite 🤭
-  - I currently live in Hungary, Budapest, but in a year we plan to move to Hungary, Pernau (Pornóapáti)
   - I have a relatively big C# knowlage and experience, and some python knowlage:
     - Knowlage:
       ```
