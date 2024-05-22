@@ -3,18 +3,19 @@
   - I currently live in Hungary, Budapest, but in a year we plan to move to Hungary, Pernau (Pornóapáti)
   - I'm currently a student in [Bláthy Otto Titus IT Secondary School](https://blathy.info)
   - You can reach me on Discord: [@aki26](https://discord.com/users/452133888047972352)
-  - I have a Discord Bot: [RangerBot](https://rangerbot.hu); I write it in C# Discord.Net
-    - *shh!* 🤫 I'm currently working on v5, which will be a full rewrite 🤭
-  - I have a relatively big C# knowlage and experience, and some python knowlage:
+  - I have a Discord Bot: [RangerBot](https://rangerbot.hu); It's written C# Discord.Net
+    - *shh!* 🤫 We're - finally with my team, not alone - currently working on v5, which will be a full rewrite.
+      - *with a very unexpected twist* 🤭
+  - So far I have used C# and Python for my projects:
     - Knowlage:
       ```
-          C# [========--]
-      Python [===-------]
+          C# [=======---]
+      Python [======----]
       ```
     - Experience:
       ```
-          C# [=======---]
-      Python [=---------]
+          C# [======----]
+      Python [====------]
       ```
 
 <div align="center">
