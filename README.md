@@ -6,16 +6,18 @@
   - I have a Discord Bot: [RangerBot](https://rangerbot.hu); It's written C# Discord.Net
     - *shh!* 🤫 We're - finally with my team, not alone - currently working on v5, which will be a full rewrite.
       - *with a very unexpected twist* 🤭
-  - So far I have used C# and Python for my projects:
+  - So far I have used C#, Python and JavaScript for my projects:
     - Knowlage:
       ```
-          C# [=======---]
-      Python [======----]
+              C# [=======---]
+          Python [======----]
+      JavaScript [=====-----]
       ```
     - Experience:
       ```
-          C# [======----]
-      Python [====------]
+              C# [======----]
+          Python [====------]
+      JavaScript [====------]
       ```
 
 <div align="center">
