@@ -9,14 +9,14 @@
   - So far I have used C#, Python and JavaScript for my projects:
     - Knowlage:
       ```
+          Python [========--]
               C# [=======---]
-          Python [======----]
       JavaScript [=====-----]
       ```
     - Experience:
       ```
+          Python [=======---]
               C# [======----]
-          Python [====------]
       JavaScript [====------]
       ```
 
